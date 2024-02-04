@@ -259,6 +259,14 @@ let ListAside1 = document.getElementById('ListToolsNight1');
 let ListAside2 = document.getElementById('ListToolsNight2');
 let ListAside3 = document.getElementById('ListToolsNight3');
 
+ListAside1.addEventListener('click', ()=> {
+  window.open('http://zavado.rf.gd/index6not/note.html')
+})
+
+ListAside2.addEventListener('click', ()=> {
+  window.open('http://zavado.rf.gd/?i=1')
+})
+
 // Card Tools
 let focusArea = document.getElementById('focusArea');
 let HeadClockNight = document.getElementById('HeadClockNight');
