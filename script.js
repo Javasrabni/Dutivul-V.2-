@@ -429,18 +429,3 @@ function functionbtntodo() {
 function functionNote() {
   window.open('http://zavado.rf.gd/index6not/note.html', "_blank");
 };
-
-// let tesProm = prompt("Tuliskan nama sekolah");
-// tesProm = tesProm.toLowerCase();
-
-// switch(tesProm){
-//   case "man 1 kota tangerang":
-//     alert("Lokasi: Cimone");
-//     break;
-//   case "sman 8 kota tangerang":
-//     alert("lokasi: Jl. besi raya");
-//     break;
-//   default: 
-//     alert("invalid data");
-//     break;
-// }
